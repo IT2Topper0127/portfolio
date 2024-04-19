@@ -147,9 +147,9 @@ body {
     font-size: 16px;
     text-align: center;
 }
-
-#bgImage {
+#
     background: black;
+#bgImage {
     background-image: url("moon.png");
     opacity: 0.9;
     width: 100%;
