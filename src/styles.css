@@ -150,7 +150,7 @@ body {
 
 #bgImage {
     background: black;
-    background-image: url("img/bg.png");
+    background-image: url("moon.png");
     opacity: 0.9;
     width: 100%;
     background-repeat: no-repeat;
